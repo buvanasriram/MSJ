@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Gana nayakaya",
+    "god": "Sri Ganesha",
+    "type":"Song",
+    "lyrics": "https://gaana.com/lyrics/shree-ganeshaya-dheemahi-shree-ganeshay-dheemahi",
+    "audio": "https://www.youtube.com/watch?v=iIYW_XufvyE"
+  },
+  {
+    "title": "Ananda Narthana Ganapathim",
+    "god": "Sri Ganesha",
+    "type":"Song",
+    "lyrics": "https://www.karnatik.com/c1525.shtml",
+    "audio": "https://youtu.be/FnpvjSGq1Po"
+  },
+  {
+    "title": "Lalitha Sahasranamam",
+    "god": "Sri Lalitha Tripura Sundari Devi",
+    "type":"Sloka",
+    "lyrics": "https://stotranidhi.com/hi/sri-lalitha-sahasranama-stotram-in-sanskrit/",
+    "audio": "https://youtu.be/DtSBLpQStT4"
+  },
+  {
+    "title": "Rama nama moralinchara",
+    "god": "Sri Rama",
+    "type":"Song",
+    "lyrics": "https://www.karnatik.com/c3203.shtml",
+    "audio": ""
+  },
+  {
+    "title": "Kannan puram selven",
+    "god": "Sri Krishna",
+    "type":"Song",
+    "lyrics": "https://damnlyrics.com/lyrics/Kannapuram-Selven-Revival-Seerkazhi-SGovindarajan-in5Yj059.html",
+    "audio": "https://youtu.be/Ca4vW94_Bzk"
+  },
+  {
+    "title": "Shyamalambika Sarva Jeevathmikae",
+    "god": "Sri Parvathi Devi",
+    "type":"Song",
+    "lyrics": "https://karnatik.com/c9586.shtml",
+    "audio": "https://soundcloud.com/padmar58/shyamalambike-song-in-raagam"
+  },
+  {
+    "title": "Gana nayakaya",
+    "god": "Sri Ganesha",
+    "type":"Song",
+    "lyrics": "https://gaana.com/lyrics/shree-ganeshaya-dheemahi-shree-ganeshay-dheemahi",
+    "audio": "https://www.youtube.com/watch?v=iIYW_XufvyE"
+  },
+  {
+    "title": "Vishnu Sahasranamam",
+    "god": "Sri Vishnu",
+    "type":"Sloka",
+    "lyrics": "https://stotranidhi.com/en/sri-vishnu-sahasranama-stotram-in-english/",
+    "audio": "https://www.youtube.com/watch?v=5aHeprNOU3s"
+  },
+  {
+    "title": "Manidweepam",
+    "god":"Sri Lalitha Tripura Sundari Devi",
+    "type":"Sloka",
+    "lyrics": "https://vignanam.org/english/manidweepa-varnanam-telugu.html",
+    "audio": "https://www.youtube.com/watch?v=DsGBvUaa4wA"
+  }
+]
