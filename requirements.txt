@@ -2,4 +2,4 @@ streamlit
 pandas
 tabulate
 streamlit-option-menu
-pyrebase
+pyrebase4
