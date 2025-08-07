@@ -3,3 +3,5 @@ pandas
 tabulate
 streamlit-option-menu
 pyrebase4
+setuptools
+
