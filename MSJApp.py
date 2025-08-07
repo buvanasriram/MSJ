@@ -1,7 +1,7 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 import pandas as pd
-import pyrebase4
+import pyrebase
 from firebase_config import auth, db
 
 # --- Session State ---
@@ -102,4 +102,5 @@ else:
         - 🎧 Clickable links to listen or read lyrics  
         - 🔐 Each user's data is private  
         """)
+
 
